@@ -1,0 +1,27 @@
+<!--anchor tags= (target="_blank") in anchor text-->
+<!DOCTYPE html>
+<div style="color:#0000FF">
+
+  <body >
+
+    <h1>Eckhart Tolle</h1>
+    <div>
+     
+      <img class="img-responsive"  src="https://en.wikipedia.org/wiki/Eckhart_Tolle#/media/File:Eckhhart_Tolle_front.jpg" alt="Eckart's gaze"> </div>
+    <p>A thoughtful dude</p>
+
+    <div style="background-color:rgb(125, 175, 14);">
+      <div>
+        <ul>
+          <li>Coffee</li>
+          <li>Tea</li>
+          <li>Milk</li>
+        </ul>
+      </div>
+      <a target="_blank" href="https://en.wikipedia.org/wiki/Eckhart_Tolle">Check out Eckhart's Wikipage here!</a>
+      <!iframe class="iframe-responsive"
+        src="https://upload.wikimedia.org/wikipedia/commons/thu…rt_Tolle_front.jpg/190px-Eckhhart_Tolle_front.jpg">
+  <p>iframe?</p>
+</iframe>
+    </div>
+</div>
